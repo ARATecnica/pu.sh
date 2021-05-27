@@ -11,7 +11,7 @@ fi
 
 TEAMID="GRQYGPJ394"
 KEYID="B6S5PJ76G6"
-SECRET="<path to your>.p8"
+SECRET="/home/pushtest/pu.sh/key.p8"
 BUNDLEID="com.tecnichedivendita.tevecomobile"
 DEVICETOKEN="..."
 
