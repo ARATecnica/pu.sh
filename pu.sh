@@ -9,10 +9,10 @@ if [ -z "$1" ]
     PAYLOAD=$(<$1)
 fi
 
-TEAMID="..."
-KEYID="..."
+TEAMID="GRQYGPJ394"
+KEYID="B6S5PJ76G6"
 SECRET="<path to your>.p8"
-BUNDLEID="..."
+BUNDLEID="com.tecnichedivendita.tevecomobile"
 DEVICETOKEN="..."
 
 function base64URLSafe {
