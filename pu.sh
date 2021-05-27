@@ -13,7 +13,7 @@ TEAMID="GRQYGPJ394"
 KEYID="B6S5PJ76G6"
 SECRET="/home/pushtest/pu.sh/key.p8"
 BUNDLEID="com.tecnichedivendita.tevecomobile"
-DEVICETOKEN="..."
+DEVICETOKEN="9d415a8bf3e445854f08b2199fe07578429cf7bdc23020f1f9c91113a55b2c44"
 
 function base64URLSafe {
   openssl base64 -e -A | tr -- '+/' '-_' | tr -d =
